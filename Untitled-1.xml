@@ -1,0 +1,161 @@
+
+  <header>
+    <h1>DN Vendas</h1>
+  </header>  
+  <header>
+    <div class="logo"><Preview class="jpg"></Preview></div>
+    <nav>
+      <a href="index.html">Início</a>
+    </nav>
+  </header>
+
+    <h2>Seu Carrinho</h2>
+    <ul id="cart-items"></ul>
+    <p id="total"></p>
+  </main>
+  <header>
+    <nav>
+      <a href="index.html">Início</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>produtos relacionados</h2>
+    <ul id="cart-items"></ul>
+    <p id="total"></p>
+  </main>
+
+  <footer>
+    <p>&copy; </p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
+ <section class="product-grid">
+
+  <!-- JBL, Fone de Ouvido On ear, Tune 520BT - Preto -->
+  <div class="product-card">
+    <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg9LRsWRq-FNSy-FEHrONPLqtwXCfE-ysAqArgeMaFgLBt9hmDmoY50_xNcNDP5JWDvW_sX3ySjPjAPumf6u1LlAigXykwPpy7PffhPeb7-ssXi8J1A9gGVbDD_HiSFhgss66Yayg&usqp=CAc" alt="Fone de Ouvido Bluetooth" />
+    <h3>JBL, Fone de Ouvido On ear, Tune 520BT - Preto</h3>
+    <p>R$ 129,90</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+  <!-- Samsung Galaxy Watch Ultra Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza -->
+  <div class="product-card">
+    <img src="data:image/webp;base64,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" alt="Samsung Galaxy Watch Ultra Smartwatch 47mm LTE" />
+    <h3>Samsung Galaxy Watch Ultra Smartwatch</h3>
+    <p>R$ 350,90</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+  <!--Apple iPhone 14 Pro Max (1 TB) – Roxo-profundo -->
+  <div class="product-card">
+    <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjyZMJNENEJ4pifdMzZHCOziGBcc9n66NkgZRc3pEkRuJ31pA6PN1BsCdagLnuFq6DVU0ZiQOWZJDVBTabNRVpPFSLStkt5IYXY6qNI-VnE0E-9TKELc8NSbre1ZM9ThWJ-gm3AQ&usqp=CAc" alt="Smartphone moderno" />
+    <h3>Apple iPhone 14 Pro Max (1 TB) – Roxo-profundo</h3>
+    <p>R$ 5.899,00</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+  <!-- JBL, Caixa de Som, Charge 5, Bluetooth, À Prova D'água e Poeira - Preto -->
+  <div class="product-card">
+    <img src="data:image/webp;base64,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" alt="Caixa de Som Bluetooth" />
+    <h3>JBL, Caixa de Som, Charge 5, Bluetooth, À Prova D'água e Poeira - Preto</h3>
+    <p>R$ 790,00</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+  <!-- Redragon Mouse M908 Impact RGB LED MMO com botões laterais Mouse para jogos com fio óptico com 12.400DPI, alta precisão, 20 botões programáveis para mouse -->
+  <div class="product-card">
+    <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTBRNKBap9fzGYSrgiCUhtfKiwYibYOnewtHI1ILb-QiJr3W75yLhORQ9ihnWnBOUcM0TNrBwjoS9h0sE0q5yCY651umMZ6EZDZZK2zA6r_PlQj4lF3Qa3x3RS1D0NN7Rw9Qpq7UA&usqp=CAc" alt="Mouse Gamer RGB" />
+    <h3>Redragon Mouse M908 Impact RGB LED MMO com botões laterais Mouse para jogos com fio óptico</h3>
+    <p>R$ 169,90</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+  <!--Monitor Gamer 3Green 20" LED 75 Hz HD Preto  -->
+  <div class="product-card">
+    <img src="data:image/webp;base64,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" alt="Mouse Gamer RGB" />
+    <h3>-Monitor Gamer 3Green 20" LED 75 Hz</h3>
+    <p>R$ 380,99</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+<!-- PC Gamer ITX Arena, Ryzen 7 5700G, Radeon™ Graphics Vega 8, 16GB Ram, SSD 480GB, Gabinete RGB -->
+  <div class="product-card">
+    <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYdg2mvK2A-DBuTNuJpPUK5dOxux6HXI3C6T-yBA0JoIi0Y5zGv3G1pmEQ6A9pevCoKACCc_wBB1IZlKX0sCIPQKmKOqL6UWazjKrk0w3y1-pqlboAq7rWSddFf9NLEWue7nt8KtQ&usqp=CAc" alt="PC Gamer ITX Arena" />
+    <h3>PC Gamer ITX Arena, Ryzen 7 5700G, Radeon™ Graphics Vega 8, 16GB Ram, SSD 480GB, Gabinete RGBr RGB</h3>
+    <p>R$ 1.500,90</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+ <!--Samsung Smart TV 65" Crystal UHD 4K 65DU8000 - Painel Dynamic Crystal Color, Gaming Hub -->
+  <div class="product-card">
+    <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-qI5AH8nkRFNO0cBSkiBFqQ5GE1w6DX4LER7alJwvpEKF9EMmyVs7LyhrDHovafwP-qydH8b-Z4BqnDp3oNcw1KGO6HQhQnBrKkRW5C5uw670tVnXdtn5A-14Eoq2EOS41x6M_WM&usqp=CAc" alt="Samsung Smart TV 65" />
+    <h3>Samsung Smart TV 65" Crystal UHD 4K 65DU8000 - Painel Dynamic Crystal Color, Gaming Hub</h3>
+    <p>R$ 2.564,05</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+<!-- Notebook ASUS TUF Gaming A15, GeForce RTX 2050, AMD RYZEN 7, 8 GB, 512 GB SSD, KeepOS, Tela 15.6'' FHD, Graphite Black - FA506NFR-HN069 -->
+  <div class="product-card">
+    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSz-cU43gaCJ8RIe8x745XcJ2BUqkdapvSwlgZehje8KcXRzZJ7ZJLNYTfgP9Tt0090Hvaorc2G8GKDFFL44A5WScSaX1T-3ydKKzEUnfOJAMl3Ttcl8JWxlKB0LtXxU0zoE-H2IYQ&usqp=CAc" alt="Notebook ASUS TUF Gaming A15" />
+    <h3>Notebook ASUS TUF Gaming A15, GeForce RTX 2050, AMD RYZEN 7, 8 GB, 512 GB SSD,</h3>
+    <p>R$3.267,00</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+<!--PlayStation®5 Slim Edição Digital com 2 Jogos -->
+  <div class="product-card">
+    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSma-kqV1nLTBZ1R7PVkmVZp5bhi2WrK3IfIqKVD1SK4MKrgvbZXYU2pPfthlWzv00XD-5iwpOPl2Rxyghg79TPNKQq_WsrRZ_vEZMN_R6EGppGph_e0YXXUZRb4XfN3E3py07Ht6E&usqp=CAc" alt="PlayStation®5 Slim Edição Digita" />
+PlayStation®5 Slim Edição Digital com 2 Jogos
+ <p>R$2.450,00</p>
+    <a href="product.html" class="btn">Ver Detalhes</a>
+  </div>
+
+<body>
+  <header>
+    <div class="logo">DN Vendas</div>
+    <input type="text" id="search" placeholder="Pesquisar produtos..." />
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="cart.html">Carrinho 🛒</a>
+    </nav>
+  </header>
+
+  <footer>
+    <p>&copy; o melhor produto pra você estar aqui. aproveite, compre e seja feliz</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Carrinho de Compras</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  
+  <script>
+    function loadCart() {
+      let cart = JSON.parse(localStorage.getItem("cart")) || [];
+      let items = document.getElementById("cart-items");
+      let total = 0;
+      items.innerHTML = "";
+
+      cart.forEach(item => {
+        const li = document.createElement("li");
+        li.textContent = `${item.name} - R$ ${item.price.toFixed(2)}`;
+        items.appendChild(li);
+        total += item.price;
+      });
+
+      document.getElementById("total").textContent = `Total: R$ ${total.toFixed(2)}`;
+    }
+    window.onload = loadCart;
+  </script>
+</body>
+</html>
